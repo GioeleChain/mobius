@@ -1,8 +1,8 @@
 {
-  "short_name": "MobiusDEX",
-  "name": "MobiusDEX",
-  "description": "Farm Mobius with Mobius LP Tokens",
-  "homepage_url": "https://mobiusdex.fi",
+  "short_name": "SaplingDEX",
+  "name": "SaplingDEX",
+  "description": "Farm Sapling with Sapling LP Tokens",
+  "homepage_url": "www.saplingdex.com",
   "start_url": ".",
   "display": "standalone",
   "theme_color": "#1FC7D4",
